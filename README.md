@@ -9,7 +9,7 @@ Caution:
 Atm the Jitsi Meet lib only works ok if all users are running a Chromium based browser. A solution to add Firefox and Safari to the supported browsers has been announced for April 2020. See https://github.com/jitsi/jitsi-meet/issues/4758 for current progress. Update: With version 0.2.9 a new version of the API lib is included. This should help with problems on FF and Safari.
 
 # Installation
-You can install this module by using the following manifest URL : https://raw.githubusercontent.com/luvolondon/fvtt-module-jitsiwebrtc/master/module.json
+You can install this module by using the following manifest URL : https://raw.githubusercontent.com/deurk/fvtt-module-jitsiwebrtc/master/module.json
 
 # How to use
 To use this client you have to enable A/V in the Game settings. The module will replace the easyrtc client of vanilla FVTT.
