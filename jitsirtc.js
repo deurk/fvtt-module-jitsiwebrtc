@@ -504,14 +504,14 @@ class JitsiRTCClient extends WebRTCInterface {
 						video: {
 							aspectRatio: 4/3,
 							height: {
-								ideal: 240,
-								max: 480,
-								min: 120
+								ideal: 600,
+								max: 600,
+								min: 240
 							},
 							width: {
-								ideal: 320,
-								max: 640,
-								min: 160
+								ideal: 800,
+								max: 800,
+								min: 320
 							}
 
 						}
