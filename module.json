@@ -8,7 +8,7 @@
   "packs": [],
   "url": "https://github.com/deurk/fvtt-module-jitsiwebrtc",
   "manifest": "https://raw.githubusercontent.com/deurk/fvtt-module-jitsiwebrtc/master/module.json",
-  "download": "https://github.com/deurk/fvtt-module-jitsiwebrtc/archive/v0.2.19.zip",
+  "download": "https://github.com/deurk/fvtt-module-jitsiwebrtc/archive/v0.2.19-deurk.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.5.6",
   "scripts": ["jitsirtc.js","lib-jitsi-meet.min.js"]
